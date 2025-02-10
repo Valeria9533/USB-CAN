@@ -5,3 +5,4 @@ Firmware for Milandr 1986BE92 MCU.
 
 External OSC - 12 MHz.
 
+USB CDC mode is used here.
