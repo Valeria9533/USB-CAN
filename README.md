@@ -5,5 +5,6 @@ Firmware for Milandr 1986BE92 MCU.
 
 External OSC - 16 MHz.
 
-CAN ID = 0x201 (answer ID = 0x101)
+CAN ID = 0x201 (answer ID = 0x101), baudrate = 1 MHz
 
+Serial COM baudrate = 115200, parity = none, stop_bits = 1, start_bits = 1, data_bits = 8.
